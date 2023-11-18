@@ -17,4 +17,4 @@ Las tecnologias que utilicé, son:
 
 ### Link a demo
 En el siguiente link puedes ver mi proyecto terminado: 
-[Flexbox](https://flexbox-iota-henna.vercel.app/)
+[Flexbox](https://flexbox-mu.vercel.app/)
